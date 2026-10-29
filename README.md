@@ -1,0 +1,1 @@
+A CLI helps developers work with cloud services by allowing them to run commands to manage resources, automate tasks, and interact with services efficiently. Pushing code to GitHub stores and shares the source code in a repository, while deploying a live application makes the code available for users to access and use.
